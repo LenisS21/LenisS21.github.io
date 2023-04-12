@@ -9,7 +9,7 @@ var idiomas = {
         validador: "Validar",
         Mvelocidad: "Velocidad"
       },
-      // Otros datos de idioma para el idioma español
+      
     },
     en: {
       app: {
@@ -22,7 +22,7 @@ var idiomas = {
         Mvelocidad: "Speed",
         
       },
-      // Otros datos de idioma para el idioma inglés
+      
     },
     pt: {
       app: {
@@ -34,7 +34,7 @@ var idiomas = {
         validador: "Validar",
         Mvelocidad: "Velocidade"
       },
-      // Otros datos de idioma para el idioma pt
+      
     }
   };
 
