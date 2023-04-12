@@ -172,7 +172,6 @@ function validarPalabra(palabra) {
 function animarTransicion(transicion) {
     transicion.style("stroke", "red");
   
-  // Esperar el tiempo de espera definido
     setTimeout(() => {
     transicion.style("stroke", "black");
     
